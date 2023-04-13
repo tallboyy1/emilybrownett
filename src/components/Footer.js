@@ -7,7 +7,7 @@ function Footer(){
         <div className='footer'>
             <div className='footer-container'>
                 <footer>
-                <Link to="about#aboutSection" className="--decoration-none --margin-right-20 --font-1-2em --black" 
+                <Link to="about#aboutSection" className="--decoration-none s --margin-right-20 --font-1-2em --black" 
                 >
                     about
                 </Link>
