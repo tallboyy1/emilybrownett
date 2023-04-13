@@ -38,7 +38,7 @@ function About(){
                 <div className="aboutLeft">
                     <ul>
                         <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bbns.big">instagram</a></li>
-                        <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bbns.big">vsco</a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bbns.big">instagram</a></li>
                     </ul>
                 </div>
                 <div className="aboutRight">
