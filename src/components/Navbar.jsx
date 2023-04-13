@@ -25,7 +25,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar'>
-        <img src={logo} alt="Emily Brownett logo" className='navbar-logo' />
+        <img src={pLogo} alt="Emily Brownett logo" className='navbar-logo' />
         <div className='navbar-container'>
             <nav ref={navRef}>
                 <Link onClick={ ()=> pageRedirect("/about#aboutSection")} to="about#aboutSection" style={{fontSize: "1.2em", color: "black", textDecoration: "none",  backgroundColor: "transparent", outline: "none", border: "none"}}>about</Link>
