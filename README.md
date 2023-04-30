@@ -1,1 +1,3 @@
-# A Photography Portfolio website for [Emily Brownett](https://emilybrownett.vercel.app) built with React.JS
+# A Photography Portfolio website for [Emily Brownett](https://emilybrownett.vercel.app) 
+This was built with React.JS
+<img width="1440" alt=" Emily Brownett" src="https://user-images.githubusercontent.com/86326433/235374088-f0381cd6-625f-48dc-973a-336c7e2ddd4c.png">
